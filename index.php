@@ -1,7 +1,7 @@
 <?php
 
 
-header("Location:index.html");
+header("Location:home.html");
 
 
 ?>
